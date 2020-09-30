@@ -1,0 +1,15 @@
+{
+    "langNmae": "English",
+    "pages": [
+        {
+            "id": "mainPage",
+            "title": "Enfo Translate Example",
+            "text-1": "This is the template for Enfo Translation.",
+            "stitle-1": "How To Translate:",
+            "text-2": "1. You copy fork the repo from github<br>2. You create a new lang.json in lang/, where lang its the language you are translating to (e.g. en)<br>3. You edit the file.<br>4. Create a pull request on github.",
+            "title-2": "Important:",
+            "text-3": "Do not change tags (e.g. id, title, title-1...). Do not change html tags (e.g. <br>, <div>, <b>). I think this is all for now."
+        }
+    ],
+    "translator": "Ezzer29"
+}
