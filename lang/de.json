@@ -1,0 +1,15 @@
+{
+    "langNmae": "Deutsch",
+    "pages": [
+        {
+            "id": "mainPage",
+            "title": "Enfo Übersetzungs Vorlage",
+            "text-1": "Dies ist die Vorlage für Enfo Translation.",
+            "stitle-1": "Wie übersetzt man:",
+            "text-2": "1. Sie kopiern alles von Github<br>2. Sie erstellen ein neues lang.json in lang/, wo lang ihre Sprache ist(z.B. en)<br>3. Sie bearbeiten die Datei.<br>4. Bitte erstelle eine Anfrage um die Datei to ziehen.",
+            "title-2": "Wichtig:",
+            "text-3": "Bitte ändern Sie keine tags (z.B id, Titel, Titel-1...). Bitte ändern Sie keine html tags (z.B. <br>, <div>, <b>). Ich glaub das wars."
+        }
+    ],
+    "translator": "Ezzer29"
+}
